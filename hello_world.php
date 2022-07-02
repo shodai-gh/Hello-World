@@ -1,3 +1,3 @@
 <?PHP
-  echo "Hrllo World!"
+  echo "Hello World!"
 ?>
